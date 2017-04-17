@@ -51,6 +51,8 @@ BDD
  - JBehave
    - Senario(Cats eat too much: Given a cat named .. When we feed 5kg of .. Then $wit ) + Unit Test Code (@Given @When @Then)
 
+![bdd.jpg](./bdd.jpg)
+
 20170415
 ====
 
